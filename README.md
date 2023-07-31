@@ -8,17 +8,17 @@
 
 <p align="left"> <a href="https://twitter.com/deepakpokharel_" target="blank"><img src="https://img.shields.io/twitter/follow/deepakpokharel_?logo=twitter&style=for-the-badge" alt="deepakpokharel_" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter courses.**
+- 🌱 I’m currently learning **programming courses.**
 
 - 👨‍💻 All of my projects are available at [https://www.deepakpokharel.com.np](https://www.deepakpokharel.com.np)
 
-- 📝 I regularly write articles on [https://pokhareldeepak.com.np](https://pokhareldeepak.com.np)
+- 📝 I regularly write articles on [https://www.pokhareldeepak.com.np](https://www.pokhareldeepak.com.np)
 
 - 💬 Ask me about **React JS,Node JS,Framework**
 
 - 📫 How to reach me **deepakpokharel77@gmail.com**
 
-- 📄 Know about my experiences [http://127.0.0.1:5500//assets/img/Deepak%20Resume.pdf](http://127.0.0.1:5500//assets/img/Deepak%20Resume.pdf)
+- 📄 Know about my experiences [https://www.deepakpokharel.com.np//assets/img/Deepak%20Resume.pdf](https://www.deepakpokharel.com.np//assets/img/Deepak%20Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
