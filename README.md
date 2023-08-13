@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/deepakpokharel_" target="blank"><img src="https://img.shields.io/twitter/follow/deepakpokharel_?logo=twitter&style=for-the-badge" alt="deepakpokharel_" /></a> </p>
 
-- 🌱 I’m currently learning **programming courses.**
+- 🌱 I’m currently learning **React JS courses.**
 
 - 👨‍💻 All of my projects are available at [https://www.deepakpokharel.com.np](https://www.deepakpokharel.com.np)
 
