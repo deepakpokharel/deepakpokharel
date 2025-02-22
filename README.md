@@ -1,4 +1,5 @@
-![logo](https://github.com/deepakpokharel/deepakpokharel/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
+![logo](https://github.com/user-attachments/assets/458eb065-b67b-4b8c-b0f7-2de2f9fcca26)
+
 <h1 align="center">Hi 👋, I'm Deepak Pokharel</h1>
 <h3 align="center">A passionate Software Engineer from Nepal</h3>
 
